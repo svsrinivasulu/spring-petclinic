@@ -336,5 +336,5 @@
         <url>http://3.133.122.171:8081/artifactory/maven</url>
     </snapshotRepository>
 </distributionManagement>-->
-
+  </pluginRepositories>
 </project>
