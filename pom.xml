@@ -326,7 +326,6 @@
       <url>http://3.133.123.119:8081/artifactory/</url>
       <layout>default</layout>
     </repository>
-    ...
 </distributionManagement>
 
    
