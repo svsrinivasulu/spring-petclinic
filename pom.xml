@@ -320,12 +320,15 @@
 
   <distributionManagement>
     <repository>
-      <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
-      <name>Corporate Repository</name>
-      <url>http://3.133.123.119:8081/artifactory/</url>
-      <layout>default</layout>
+        <id>central</id>
+        <name>ip-172-31-11-45-releases</name>
+        <url>http://3.133.123.119:8081/artifactory/maven</url>
     </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-11-45-snapshots</name>
+        <url>http://3.133.123.119:8081/artifactory/maven</url>
+    </snapshotRepository>
 </distributionManagement>
 
    
