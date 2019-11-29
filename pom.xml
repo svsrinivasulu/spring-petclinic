@@ -317,19 +317,18 @@
         </releases>
     </pluginRepository>
   </pluginRepositories>
-
-  <distributionManagement>
+<distributionManagement>
     <repository>
         <id>myartifactory</id>
         <name>ip-172-31-11-45-releases</name>
         <url>http://3.133.123.119:8081/artifactory/maven</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>myartifactory</id>
         <name>ip-172-31-11-45-snapshots</name>
         <url>http://3.133.123.119:8081/artifactory/maven</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement>>
 
    
 </project>
