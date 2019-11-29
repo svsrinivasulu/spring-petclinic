@@ -321,12 +321,12 @@
     <repository>
         <id>myartifactory</id>
         <name>ip-172-31-11-45-releases</name>
-        <url>http://3.133.123.119:8081/artifactory/</url>
+        <url>http://3.133.123.119:8081/artifactory/maven</url>
     </repository>
     <snapshotRepository>
-        <id>myartifactory</id>
+        <id>spring-petclinic</id>
         <name>ip-172-31-11-45-snapshots</name>
-        <url>http://3.133.123.119:8081/artifactory/</url>
+        <url>http://3.133.123.119:8081/artifactory/maven</url>
     </snapshotRepository>
 </distributionManagement>
 
