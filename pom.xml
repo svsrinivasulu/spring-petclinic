@@ -308,33 +308,6 @@
         <enabled>false</enabled>
       </snapshots>
     </pluginRepository>
-
-   <!-- <pluginRepository>
-        <id>central</id>
-        <url>http://3.133.122.171:8081/artifactory/plugins-release</url>
-        <snapshots>
-            <enabled>false</enabled>
-        </snapshots>
-    </pluginRepository>
-    <pluginRepository>
-        <id>snapshots</id>
-        <url>http://3.133.122.171:8081/artifactory/plugins-snapshot</url>
-        <releases>
-            <enabled>false</enabled>
-        </releases>
-    </pluginRepository>
-  </pluginRepositories>
-<distributionManagement>
-    <repository>
-        <id>myartifactory</id>
-        <name>ip-172-31-11-45-releases</name>
-        <url>http://3.133.122.171:8081/artifactory/maven</url>
-    </repository>
-    <snapshotRepository>
-        <id>spring-petclinic</id>
-        <name>ip-172-31-11-45-snapshots</name>
-        <url>http://3.133.122.171:8081/artifactory/maven</url>
-    </snapshotRepository>
-</distributionManagement>-->
-  </pluginRepositories>
+  </pluginRepositories> 
+ 
 </project>
