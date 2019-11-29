@@ -320,7 +320,7 @@
 
   <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>myartifactory</id>
         <name>ip-172-31-11-45-releases</name>
         <url>http://3.133.123.119:8081/artifactory/maven</url>
     </repository>
