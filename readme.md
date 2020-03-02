@@ -90,6 +90,7 @@ version. Otherwise, run the application by right clicking on the `PetClinicAppli
 Visit [http://localhost:8080](http://localhost:8080) in your browser.
 Hey
 hi
+Hello
 
 ## Looking for something in particular?
 
