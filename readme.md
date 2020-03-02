@@ -31,6 +31,7 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
+hi
 
 
 ## Database configuration
@@ -87,7 +88,11 @@ version. Otherwise, run the application by right clicking on the `PetClinicAppli
 4) Navigate to Petclinic
 
 Visit [http://localhost:8080](http://localhost:8080) in your browser.
-
+Hey
+hi
+Hello
+hey
+Pravveen
 
 ## Looking for something in particular?
 
